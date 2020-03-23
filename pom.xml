@@ -370,7 +370,7 @@
     <module>handler-proxy</module>
     <module>example</module>
     <module>testsuite</module>
-    <module>testsuite-autobahn</module>
+    <!--<module>testsuite-autobahn</module>-->
     <module>testsuite-http2</module>
     <module>testsuite-osgi</module>
     <module>testsuite-shading</module>
